@@ -64,17 +64,20 @@ Machine Learning Workflow
 6.Model evaluation
 7.MLflow experiment tracking
 8.Explainable AI using SHAP
-Models Used
-Logistic Regression
-Decision Tree Classifier
-Random Forest Classifier
 
-Random Forest achieved the best performance and was selected as the final model.
+
+
+## Models Used
+1.Logistic Regression
+2.Decision Tree Classifier
+3.Random Forest Classifier
+
+-Random Forest achieved the best performance and was selected as the final model.
 Explainable AI (XAI)
 
-SHAP was used to explain model predictions and identify the most important features influencing customer churn.
+-SHAP was used to explain model predictions and identify the most important features influencing customer churn.
 
-Generated visualizations include:
+## Generated visualizations include:
 
 SHAP summary plot
 SHAP feature importance plot
@@ -91,13 +94,13 @@ Tenure
 Total charges
 
 
-Team Members
+##Team Members
 Ganesh Reddy
 Rajat Patial
 Priscilla Gilbert
 
-Future Improvements
-Hyperparameter tuning
-Deployment using cloud services
-Real-time prediction API
-Improved feature engineering
+## Future Improvements
+1.Hyperparameter tuning
+2.Deployment using cloud services
+3.Real-time prediction API
+4.Improved feature engineering
