@@ -94,10 +94,13 @@ Tenure
 Total charges
 
 
-##Team Members
-Ganesh Reddy
-Rajat Patial
-Priscilla Gilbert
+## Team Members & Collaboration
+This project was successfully completed as a joint collaborative effort by all three team members:
+- **Priscilla Gilbert**
+- **Ganesh Reddy**
+- **Rajat Patial**
+
+All team members contributed equally to the Functional Methodologies (Part 1), Technical Implementation and MLOps (Part 2), and Explainable AI components (Part 3) of the Graded Project.
 
 ## Future Improvements
 1.Hyperparameter tuning

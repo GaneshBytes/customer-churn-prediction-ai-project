@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/Rajat Patial/Documents/Masters in Artificial Intelligence
+  Systems/Third Semester/AI project Methodoloy/mlruns/989966379661955177/models/m-33c5c3e13f014d64bd4c8b39800cb03f/artifacts
+creation_timestamp: 1780242409276
+experiment_id: '989966379661955177'
+last_updated_timestamp: 1780242411943
+model_id: m-33c5c3e13f014d64bd4c8b39800cb03f
+model_type: null
+name: random_forest_model
+source_run_id: 7fbe8c3a48a041dd83bbf1c48f9c2842
+status: 2
+status_message: null

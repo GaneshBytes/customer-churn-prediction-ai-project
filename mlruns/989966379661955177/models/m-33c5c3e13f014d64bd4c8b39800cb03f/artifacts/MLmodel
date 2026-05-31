@@ -1,0 +1,24 @@
+artifact_path: file:///C:/Users/Rajat Patial/Documents/Masters in Artificial Intelligence
+  Systems/Third Semester/AI project Methodoloy/mlruns/989966379661955177/models/m-33c5c3e13f014d64bd4c8b39800cb03f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-33c5c3e13f014d64bd4c8b39800cb03f
+model_size_bytes: 17598558
+model_uuid: m-33c5c3e13f014d64bd4c8b39800cb03f
+prompts: null
+run_id: 7fbe8c3a48a041dd83bbf1c48f9c2842
+utc_time_created: '2026-05-31 15:46:49.291588'
